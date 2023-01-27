@@ -1,6 +1,19 @@
 //“Hello World” is printed out 10 times
 
+int i =1;
 
+while(i <=10 )
+
+{
+
+  println("Hello World");
+    i++;
+}
+
+
+//
+Change the code so that the numbers from 1 to 10 (inclusive)
+are printed out, one line at a time.
 
 int i =1;
 
