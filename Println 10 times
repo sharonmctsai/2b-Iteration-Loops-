@@ -26,3 +26,15 @@ while(i <=10 )
 }
 
 
+//Change the code so that the numbers from 10 to 1 are printed
+out
+
+int i =10;
+
+while(i>=1)
+
+{
+
+  println( i + " " + "Hello World");
+    i--;
+}
