@@ -17,7 +17,7 @@ while(i<4)
 
 
 //While Loops Examples 2.14
-
+Same loop, but without the yCoordinate variable
 
 
 size(600,300);
