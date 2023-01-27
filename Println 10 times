@@ -1,0 +1,15 @@
+//“Hello World” is printed out 10 times
+
+
+
+int i =1;
+
+while(i <=10 )
+
+{
+
+  println( i + " " + "Hello World");
+    i++;
+}
+
+
