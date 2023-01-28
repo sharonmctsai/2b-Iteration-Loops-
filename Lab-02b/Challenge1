@@ -1,6 +1,7 @@
 //Lab 2b- Challenge 1
 //4 white and red horizontal lines
-//4 while and green vertical lines
+//4 white and green vertical lines
+//using while loop
 
 int yCoordinate =80;
 int xCoordinate =80;
