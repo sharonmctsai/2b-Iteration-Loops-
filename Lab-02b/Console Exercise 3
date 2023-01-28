@@ -1,0 +1,27 @@
+****Create a new sketch and use a while loop and the println method to print 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, blast off to the console.
+//Lab-02b
+//Console Exercise 3
+// whle loop print hello 5 times with 10-1
+
+
+int i= 10;
+while (i >=1)
+ {
+ println( i + "Hello");
+ i--;
+ }
+
+ 
+****When you have it working using the while loop, refactor your code to use a for loop.
+//Lab-02b
+//Console Exercise 3
+// for loop print hello 5 times with 10-1
+
+
+for (int i= 10 ; i >=1 ; i--)
+ {
+ println( i + "Hello");
+
+ }
+
+ 
